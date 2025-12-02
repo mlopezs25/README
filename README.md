@@ -1,6 +1,7 @@
 # 🌱 EcoTrack
 
-![Portada del Proyecto](https://via.placeholder.com/1200x400.png?text=EcoTrack+-+Tu+Huella+Sostenible)
+![Portada del Proyecto](https://i.postimg.cc/9FTbB0zM/7-5-vida-saludable-transportistas.jpg)
+
 
 ---
 
